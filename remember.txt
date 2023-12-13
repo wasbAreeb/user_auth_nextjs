@@ -1,0 +1,8 @@
+# Rest Client - An extension in VSC which is used to track data through GET and POST request and response.
+
+# Thing to do add more feature in that project are:-
+1. Redirect back to login if user try to login without verification. (Done)
+2. Forget Password. (Done)
+3. User setting to add, modify or change some information i.e Birthdate, Gender, Profile Picture etc.
+4. Add validation functionality inside logup or signup
+5. What if verification not reach to destined mail address so add feature to send again verification code again.
